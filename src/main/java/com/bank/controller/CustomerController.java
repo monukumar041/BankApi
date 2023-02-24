@@ -1,7 +1,6 @@
 package com.bank.controller;
 import com.bank.entity.Customer;
 import com.bank.services.CustomerService;
-import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
